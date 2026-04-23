@@ -4,3 +4,4 @@ amarillo
 verde
 blanco
 negro
+Morado
