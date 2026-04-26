@@ -1,7 +1,7 @@
-Mujer
-Manzana
-Oficina
-Pera
-Maiz
-Pan
-Flores
+Woman
+Apple
+Office
+Pear
+Corn
+Bread
+Flowers
